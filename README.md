@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/solidsonder/solidsonder/blob/main/solidsonner.png"  />
+  <img src="https://github.com/solidsonder/parole/blob/main/images/parole.png"  />
 </div>
 
 # Parole
